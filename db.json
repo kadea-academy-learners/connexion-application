@@ -1,0 +1,12 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "names" : "John Doe",
+            "age" : "30",
+            "emails" : "vangu.leprince@gmail.com",
+            "produits" : "ordinateur portable",
+            "password" : "azerty@1234"
+        }
+    ]
+}
