@@ -3,8 +3,8 @@
         {
             "id" : 1,
             "names" : "John Doe",
-            "age" : "30",
             "emails" : "vangu.leprince@gmail.com",
+            "age" : "30",
             "produits" : "ordinateur portable",
             "password" : "azerty@1234"
         }
