@@ -7,44 +7,45 @@
     <link rel="stylesheet" href="">
     <title>Document</title>
 </head>
-<body>
+<body class="min-h-screen">
     
-   <div class="flex justify-center items-center ">
+   <div class="flex justify-center items-center min-h-screen">
        <div class="">
-           <form class="" id="">
+           <form class="" id="register"  autocomplete="off">
                <div></div>
 
                <div class="flex flex-col gap-8">
 
                  <div class="flex flex-col">
-                    <label for="">Names</label>
-                    <input type="text" id="" class="w-60 h-10 rounded border" required placeholder="@Your Name">
+                    <label for="names">Names</label>
+                    <input type="text" id="names" class="w-60 h-10 rounded border" required placeholder="@Your Name">
                  </div>
 
                  <div class="flex flex-col">
-                    <label for="">Email</label>
-                    <input type="text" id="" class="w-60 h-10 rounded border" required placeholder="@Your Email">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" class="w-60 h-10 rounded border" required placeholder="@Your Email">
                  </div>
 
                  <div class="flex flex-col">
-                      <label for="">Age</label>
-                     <input type="text" id="" class="w-60 h-10 rounded border" required placeholder="@Your Age">
+                      <label for="ages">Age</label>
+                     <input type="text" id="ages" class="w-60 h-10 rounded border" required placeholder="@Your Age">
                  </div>
 
                  <div class="flex flex-col">
-                     <label for="">Produits</label>
-                     <input type="text" id="" class="w-60 h-10 rounded border" required placeholder="@Your Produits">
+                        <label for="passwords">Password</label>
+                        <input type="password" id="passwords" autocomplete="new-password" class="w-60 h-10 rounded border" required placeholder="@Your Password ">
                  </div>
+               </div>
 
-                 <div class="flex flex-col">
-                        <label for="">Password</label>
-                        <input type="text" id="" class="w-60 h-10 rounded border" required placeholder="@Your Password ">
-                 </div>
+               <div class="flex justify-center items-center gap-15 p-3">
+                  <button type="submit">Register</button>
+
+                  <button type="button">Cancel</button>
                </div>
            </form>
        </div>
    </div>
 
-   <script src="../scriptJs/script.js"></script>
+   <script src="../scriptJs/script.js" defer></script>
 </body>
 </html>

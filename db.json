@@ -1,12 +1,19 @@
 {
-    "users" : [
-        {
-            "id" : 1,
-            "names" : "John Doe",
-            "emails" : "vangu.leprince@gmail.com",
-            "age" : "30",
-            "produits" : "ordinateur portable",
-            "password" : "azerty@1234"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "names": "John Doe",
+      "emails": "vangu.leprince@gmail.com",
+      "age": "30",
+      "produits": "ordinateur portable",
+      "password": "azerty@1234"
+    },
+    {
+      "id": "d6c7",
+      "names": "cvgubhi",
+      "emails": "vangu.leprince@gmail.com",
+      "age": "100",
+      "password": "FYGBUHIJNO?K"
+    }
+  ]
 }
