@@ -6,14 +6,20 @@
       "emails": "vangu.leprince@gmail.com",
       "age": "30",
       "password": "azerty@1234"
+    },
+    {
+      "id": "9a20",
+      "names": "gubhjn",
+      "emails": "vangu@gmail.co",
+      "age": "67",
+      "password": "gvubhjn"
     }
   ],
   "produits": [
     {
       "id": "1",
-      "chaises": "zarah collections",
-      "t-shirts": "nike collections",
-      "tables": "jogging adidas",
+      "chaises": "chaines en bois",
+      "membles": "nike collections",
       "lumiere": "frel collections",
       "chaines": "frel chaine collections",
       "pules": "frel pules collections",
