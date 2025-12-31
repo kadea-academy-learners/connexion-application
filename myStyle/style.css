@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+
+.imageLogo{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 10px;
+}
+
+.buttonPay{
+    width: 8rem;
+    height: 3rem;
+    border-radius: 20px;
+    cursor: pointer;
+    /* border: 1px solid black; */
+}
+
+.buttonPay:hover{
+    transition: 1s;
+    color: white;
+    background-color: rgb(217, 93, 21);
+}

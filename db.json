@@ -5,22 +5,19 @@
       "names": "John Doe",
       "emails": "vangu.leprince@gmail.com",
       "age": "30",
-      "produits": "ordinateur portable",
       "password": "azerty@1234"
-    },
+    }
+  ],
+  "produits": [
     {
-      "id": "d6c7",
-      "names": "cvgubhi",
-      "emails": "vangu.leprince@gmail.com",
-      "age": "100",
-      "password": "FYGBUHIJNO?K"
-    },
-    {
-      "id": "8d6b",
-      "names": "vangu mayola leprince",
-      "emails": "vangu.leprince@gmail.com",
-      "age": "90",
-      "password": "gzcvc"
+      "id": "1",
+      "chaises": "zarah collections",
+      "t-shirts": "nike collections",
+      "tables": "jogging adidas",
+      "lumiere": "frel collections",
+      "chaines": "frel chaine collections",
+      "pules": "frel pules collections",
+      "baskettes": "puma collections"
     }
   ]
 }
