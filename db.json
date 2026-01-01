@@ -6,24 +6,54 @@
       "emails": "vangu.leprince@gmail.com",
       "age": "30",
       "password": "azerty@1234"
-    },
-    {
-      "id": "9a20",
-      "names": "gubhjn",
-      "emails": "vangu@gmail.co",
-      "age": "67",
-      "password": "gvubhjn"
     }
   ],
   "produits": [
-    {
-      "id": "1",
-      "chaises": "chaines en bois",
-      "membles": "nike collections",
-      "lumiere": "frel collections",
-      "chaines": "frel chaine collections",
-      "pules": "frel pules collections",
-      "baskettes": "puma collections"
-    }
+    { "id": 1, "nom": "salle à manger en bois", "prix": 67, "categorie": "meubles", "image": "imagesPage/imagespng/table.jpg" },
+    { "id": 2, "nom": "table en bois gris", "prix": 89, "categorie": "meubles", "image": "imagesPage/imagespng/tablesgray.jpg" },
+    { "id": 3, "nom": "table en bois marron", "prix": 120, "categorie": "meubles", "image": "imagesPage/imagespng/tablemarron.jpg" },
+    { "id": 4, "nom": "table en bois blanc", "prix": 150, "categorie": "meubles", "image": "imagesPage/imagespng/tablesBlanc.jpg" },
+    { "id": 5, "nom": "table en bois vert", "prix": 100, "categorie": "meubles", "image": "imagesPage/imagespng/tablegreen.jpg" },
+    { "id": 6, "nom": "table en bois marbre", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/tablemambre.jpg" },
+    { "id": 7, "nom": "table bois gris foncé", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/tableboisgrey.jpg" },
+    { "id": 8, "nom": "salon moderne", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/salondein.jpg" },
+    { "id": 9, "nom": "salle design luxe", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/Instagram.jpg" },
+    { "id": 10, "nom": "canapé vert", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/salle.jpg" },
+    { "id": 11, "nom": "table en bois mambre", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/canapegreen.jpg" },
+    { "id": 12, "nom": "table en bois mambre (chette)", "prix": 645, "categorie": "meubles", "image": "imagesPage/imagespng/tableschette.jpg" },
+
+    { "id": 13, "nom": "beau jaune", "prix": 66, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine1.jpg" },
+    { "id": 14, "nom": "blue diamond", "prix": 687, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine2.jpg" },
+    { "id": 15, "nom": "archi beau", "prix": 88, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine3.jpg" },
+    { "id": 16, "nom": "reggea noir", "prix": 90, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine4.jpg" },
+    { "id": 17, "nom": "fafa rose", "prix": 92, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine5.jpg" },
+    { "id": 18, "nom": "roue jaune", "prix": 44, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine6.jpg" },
+    { "id": 19, "nom": "baby jewelsy", "prix": 0.56, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine7.jpg" },
+    { "id": 20, "nom": "kekee green", "prix": 66, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine8.jpg" },
+    { "id": 21, "nom": "rock dame", "prix": 45, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine8.jpg" },
+    { "id": 22, "nom": "baby boue", "prix": 90, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine6.jpg" },
+    { "id": 23, "nom": "grahh", "prix": 99, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine1.jpg" },
+    { "id": 24, "nom": "gazo chaines", "prix": 1000, "categorie": "accessoires", "image": "imagesPage/chainesImage/chaine3.jpg" },
+
+    { "id": 25, "nom": "frel new weves", "prix": 25, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt1.jpg" },
+    { "id": 26, "nom": "frel weves 2", "prix": 55, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt10.jpg" },
+    { "id": 27, "nom": "frel collection", "prix": 44, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt11.jpg" },
+    { "id": 28, "nom": "frel collection (2)", "prix": 43, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt2.jpg" },
+    { "id": 29, "nom": "frel weves sly", "prix": 22, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt3.jpg" },
+    { "id": 30, "nom": "frel sly gang", "prix": 22, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt4.jpg" },
+    { "id": 31, "nom": "frel new weves collection", "prix": 55, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt5.jpg" },
+    { "id": 32, "nom": "frel yah weves", "prix": 12, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt5.jpg" },
+    { "id": 33, "nom": "frel kindoki", "prix": 23, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt6.jpg" },
+    { "id": 34, "nom": "frel new", "prix": 130, "categorie": "vetements", "image": "imagesPage/shirtimage/shirt9.jpg" },
+
+    { "id": 35, "nom": "pepsi kinshasa", "prix": 4, "categorie": "boissons", "image": "imagesPage/boisson/pepsi1.jpg" },
+    { "id": 36, "nom": "pepsi lubumbashi", "prix": 5, "categorie": "boissons", "image": "imagesPage/boisson/pepsi2.jpg" },
+    { "id": 37, "nom": "pepsi kongo-central", "prix": 2, "categorie": "boissons", "image": "imagesPage/boisson/pepsi3.jpg" },
+    { "id": 38, "nom": "pepsi jok", "prix": 6, "categorie": "boissons", "image": "imagesPage/boisson/pepsi4.jpg" },
+    { "id": 39, "nom": "pepsi bandundu", "prix": 4, "categorie": "boissons", "image": "imagesPage/boisson/pepsi5.jpg" },
+    { "id": 40, "nom": "pepsi bandale", "prix": 9, "categorie": "boissons", "image": "imagesPage/boisson/pepsi6.jpg" },
+    { "id": 41, "nom": "pepsi barumbu", "prix": 10, "categorie": "boissons", "image": "imagesPage/boisson/pepsi7.jpg" },
+    { "id": 42, "nom": "pepsi france", "prix": 3, "categorie": "boissons", "image": "imagesPage/boisson/pepsi8.jpg" },
+    { "id": 43, "nom": "pepsi brazzaville", "prix": 5, "categorie": "boissons", "image": "imagesPage/boisson/pepsi9.jpg" }
   ]
 }
