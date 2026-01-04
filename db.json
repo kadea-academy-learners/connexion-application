@@ -6,312 +6,281 @@
       "emails": "vangu.leprince@gmail.com",
       "age": "30",
       "password": "azerty@1234"
+    },
+    {
+      "id": "0f1c",
+      "names": "fzgguvyz",
+      "emails": "vangu.@kadea.co",
+      "age": "25",
+      "password": "125679"
     }
   ],
   "produits": [
-     {
-       "id" : 1,
-       "nom" : "salle à manger en bois",
-       "prix" : 96,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/canapegreen.jpg"
-     },
-
-     {
-       "id" : 2,
-       "nom" : "salle à manger en bois",
-       "prix" : 906,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/salle.jpg"
-     },
-
-     {
-       "id" : 3,
-       "nom" : "salle à manger en bois",
-       "prix" : 26,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/salondein.jpg"
-     },
-
-     {
-       "id" : 4,
-       "nom" : "salle à manger en bois",
-       "prix" : 96,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/table.jpg"
-     },
-
-     {
-       "id" : 5,
-       "nom" : "salle à manger en bois",
-       "prix" : 66,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/tablemambre.jpg"
-     },
-
-     {
-       "id" : 6,
-       "nom" : "salle à manger en bois",
-       "prix" : 26,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/tablesBlanc.jpg"
-     },
-     
-     {
-       "id" : 7,
-       "nom" : "salle à manger en bois",
-       "prix" : 66,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/tablesgray.jpg"
-     },
-
-     {
-       "id" : 8,
-       "nom" : "salle à manger en bois",
-       "prix" : 546,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/tablesChette.jpg"
-     },
-
-     {
-       "id" : 9,
-       "nom" : "salle à manger en bois",
-       "prix" : 7896,
-       "categories" : "meubles",
-       "image" : "../imagesPage/imagespng/table.jpg"
-     },
-
-     {
-      "id" : 10,
-      "nom" : "beau jaune",
-      "prix" : 966,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine1.jpg"
-     },
-
-     {
-      "id" : 11,
-      "nom" : "beau jaune",
-      "prix" : 366,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine2.jpg"
-     },
-
-     {
-      "id" : 12,
-      "nom" : "beau jaune",
-      "prix" : 866,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine3.jpg"
-     },
-
-     {
-      "id" : 13,
-      "nom" : "beau jaune",
-      "prix" : 566,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine4.jpg"
-     },
-
-     {
-      "id" : 14,
-      "nom" : "beau jaune",
-      "prix" : 366,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine5.jpg"
-     },
-
-     {
-      "id" : 15,
-      "nom" : "beau jaune",
-      "prix" : 266,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine6.jpg"
-     },
-
-     {
-      "id" : 16,
-      "nom" : "beau jaune",
-      "prix" : 166,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine7.jpg"
-     },
-
-     {
-      "id" : 17,
-      "nom" : "beau jaune",
-      "prix" : 66,
-      "categories" : "accessoirs",
-      "image" : "../imagesPage/chainesImage/chaine8.jpg"
-     },
-
-
-     {
-      "id" : 18,
-      "nom" : "vetements de chine",
-      "prix" : 78,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt1.jpg"
-     },
-
-      {
-      "id" : 19,
-      "nom" : "vetements de chine",
-      "prix" : 58,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt2.jpg"
-     },
-
-      {
-      "id" : 20,
-      "nom" : "vetements de chine",
-      "prix" : 98,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt3.jpg"
-     },
-
-      {
-      "id" : 21,
-      "nom" : "vetements de chine",
-      "prix" : 778,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt4.jpg"
-     },
-
-      {
-      "id" : 22,
-      "nom" : "vetements de chine",
-      "prix" : 578,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt5.jpg"
-     },
-
-      {
-      "id" : 23,
-      "nom" : "vetements de chine",
-      "prix" : 228,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt6.jpg"
-     },
-
-      {
-      "id" : 24,
-      "nom" : "vetements de chine",
-      "prix" : 38,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt7.jpg"
-     },
-
-      {
-      "id" : 25,
-      "nom" : "vetements de chine",
-      "prix" : 88,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt8.jpg"
-     },
-
-      {
-      "id" : 26,
-      "nom" : "vetements de chine",
-      "prix" : 38,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt9.jpg"
-     },
-
-     {
-      "id" : 27,
-      "nom" : "vetements de chine",
-      "prix" : 28,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt10.jpg"
-     },
-
-     {
-      "id" : 28,
-      "nom" : "vetements de chine",
-      "prix" : 68,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt11.jpg"
-     },
-
-     {
-      "id" : 29,
-      "nom" : "vetements de chine",
-      "prix" : 78,
-      "categories" : "vetements",
-      "image" : "../imagesPage/shirtimage/shirt1.jpg"
-     },
-
-     {
-      "id" : 30,
-      "nom" : "la vie en bling ",
-      "prix": 9,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi1.jpg"
-     },
-
-     {
-      "id" : 31,
-      "nom" : "la vie en bling ",
-      "prix": 8,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi2.jpg"
-     },
-
-     {
-      "id" : 32,
-      "nom" : "la vie en bling ",
-      "prix": 2,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi3.jpg"
-     },
-
-     {
-      "id" : 33,
-      "nom" : "la vie en bling ",
-      "prix": 5,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi4.jpg"
-     },
-
-     {
-      "id" : 34,
-      "nom" : "la vie en bling ",
-      "prix": 8,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi5.jpg"
-     },
-
-     {
-      "id" : 35,
-      "nom" : "la vie en bling ",
-      "prix": 7,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi6.jpg"
-     },
-
-     {
-      "id" : 36,
-      "nom" : "la vie en bling ",
-      "prix": 5,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi7.jpg"
-     },
-
-     {
-      "id" : 37,
-      "nom" : "la vie en bling ",
-      "prix": 7,
-      "categories" : "boissons",
-      "image" : "../imagesPage/boisson/pepsi8.jpg"
-     },
-
-     {
-      "id" : 38,
-      "nom" :"la vie en bling ",
-      "prix" : 8,
-      "categories" :"boissons",
-      "image" :"../imagesPage/boisson/pepsi8.jpg" 
-     }
+    {
+      "id": 1,
+      "name": "salle à manger en bois",
+      "price": 96,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/canapegreen.jpg"
+    },
+    {
+      "id": 2,
+      "name": "salle à manger en bois",
+      "price": 906,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/salle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "salle à manger en bois",
+      "price": 26,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/salondein.jpg"
+    },
+    {
+      "id": 4,
+      "name": "salle à manger en bois",
+      "price": 96,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/table.jpg"
+    },
+    {
+      "id": 5,
+      "name": "salle à manger en bois",
+      "price": 66,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/tablemambre.jpg"
+    },
+    {
+      "id": 6,
+      "name": "salle à manger en bois",
+      "price": 26,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/tablesBlanc.jpg"
+    },
+    {
+      "id": 7,
+      "name": "salle à manger en bois",
+      "price": 66,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/tablesgray.jpg"
+    },
+    {
+      "id": 8,
+      "name": "salle à manger en bois",
+      "price": 546,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/tablesChette.jpg"
+    },
+    {
+      "id": 9,
+      "name": "salle à manger en bois",
+      "price": 7896,
+      "categories": "meubles",
+      "image": "../imagesPage/imagespng/table.jpg"
+    },
+    {
+      "id": 10,
+      "name": "beau jaune",
+      "price": 966,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine1.jpg"
+    },
+    {
+      "id": 11,
+      "name": "beau jaune",
+      "price": 366,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "beau jaune",
+      "price": 866,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "beau jaune",
+      "price": 566,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine4.jpg"
+    },
+    {
+      "id": 14,
+      "name": "beau jaune",
+      "price": 366,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine5.jpg"
+    },
+    {
+      "id": 15,
+      "name": "beau jaune",
+      "price": 266,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine6.jpg"
+    },
+    {
+      "id": 16,
+      "name": "beau jaune",
+      "price": 166,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine7.jpg"
+    },
+    {
+      "id": 17,
+      "name": "beau jaune",
+      "price": 66,
+      "categories": "accessoirs",
+      "image": "../imagesPage/chainesImage/chaine8.jpg"
+    },
+    {
+      "id": 18,
+      "name": "vetements de chine",
+      "price": 78,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt1.jpg"
+    },
+    {
+      "id": 19,
+      "name": "vetements de chine",
+      "price": 58,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt2.jpg"
+    },
+    {
+      "id": 20,
+      "name": "vetements de chine",
+      "price": 98,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt3.jpg"
+    },
+    {
+      "id": 21,
+      "name": "vetements de chine",
+      "price": 778,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt4.jpg"
+    },
+    {
+      "id": 22,
+      "name": "vetements de chine",
+      "price": 578,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt5.jpg"
+    },
+    {
+      "id": 23,
+      "name": "vetements de chine",
+      "price": 228,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt6.jpg"
+    },
+    {
+      "id": 24,
+      "name": "vetements de chine",
+      "price": 38,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt7.jpg"
+    },
+    {
+      "id": 25,
+      "name": "vetements de chine",
+      "price": 88,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt8.jpg"
+    },
+    {
+      "id": 26,
+      "name": "vetements de chine",
+      "price": 38,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt9.jpg"
+    },
+    {
+      "id": 27,
+      "name": "vetements de chine",
+      "price": 28,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt10.jpg"
+    },
+    {
+      "id": 28,
+      "name": "vetements de chine",
+      "price": 68,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt11.jpg"
+    },
+    {
+      "id": 29,
+      "name": "vetements de chine",
+      "price": 78,
+      "categories": "vetements",
+      "image": "../imagesPage/shirtimage/shirt1.jpg"
+    },
+    {
+      "id": 30,
+      "name": "la vie en bling ",
+      "price": 9,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi1.jpg"
+    },
+    {
+      "id": 31,
+      "name": "la vie en bling ",
+      "price": 8,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi2.jpg"
+    },
+    {
+      "id": 32,
+      "name": "la vie en bling ",
+      "price": 2,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi3.jpg"
+    },
+    {
+      "id": 33,
+      "name": "la vie en bling ",
+      "price": 5,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi4.jpg"
+    },
+    {
+      "id": 34,
+      "name": "la vie en bling ",
+      "price": 8,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi5.jpg"
+    },
+    {
+      "id": 35,
+      "name": "la vie en bling ",
+      "price": 7,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi6.jpg"
+    },
+    {
+      "id": 36,
+      "name": "la vie en bling ",
+      "price": 5,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi7.jpg"
+    },
+    {
+      "id": 37,
+      "name": "la vie en bling ",
+      "price": 7,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi8.jpg"
+    },
+    {
+      "id": 38,
+      "name": "la vie en bling ",
+      "price": 8,
+      "categories": "boissons",
+      "image": "../imagesPage/boisson/pepsi8.jpg"
+    }
   ]
 }
