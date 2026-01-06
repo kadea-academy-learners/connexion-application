@@ -2,6 +2,15 @@ document.addEventListener("DOMContentLoaded", () => {
   chargerProduits();
 });
 
+document.addEventListener("click", async (e) => {
+  const btn = e.target.closest(".btn-add-cart");
+  if (!btn) return;
+
+  const id = btn.dataset.id;
+  await ajouterAuPanier(id);
+});
+
+
 function chargerProduits() {
   fetch("http://localhost:3000/produits")
     .then(response => response.json())
@@ -37,7 +46,7 @@ function afficherProduits(produits) {
       <div class="flex justify-center">
 
       <button 
-        class="mt-2 text-center w-40 bg-orange-500 text-white py-1 rounded hover:bg-orange-600"
+        class="btn-add-cart mt-2 text-center w-40 bg-orange-500 text-white py-1 rounded hover:bg-orange-600"
         data-id="${produit.id}">
         Ajouter au panier
       </button>
@@ -47,3 +56,18 @@ function afficherProduits(produits) {
     section.appendChild(article);
   })
 }
+
+
+document.addEventListener("click", (e) => {
+  const payBtn = e.target.closest(".buttonPay");
+  if (!payBtn) return;
+
+  const cart = JSON.parse(localStorage.getItem("cart")) || [];
+
+  if (cart.length === 0) {
+    showToast("Votre panier est vide! ❌", "error");
+    return;
+  }
+
+  window.location.href = "panier.html";
+});

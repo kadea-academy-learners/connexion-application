@@ -1,3 +1,18 @@
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 0.3s ease-out;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -26,6 +41,34 @@
 }
 
 .buttonPay:hover{
+    transition: 1s;
+    color: white;
+    background-color: rgb(217, 93, 21);
+}
+
+/* ------------ MA PAGE PANIER ------------------- */
+
+.buttonZonga{
+    width: 9rem;
+    height: 2rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.buttonZonga:hover{
+    transition: 1s;
+    color: white;
+    background-color: rgb(217, 93, 21);
+}
+
+.CommanderButton{
+    width: 10rem;
+    height: 2.5rem;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.CommanderButton:hover{
     transition: 1s;
     color: white;
     background-color: rgb(217, 93, 21);
