@@ -32,7 +32,7 @@ document.addEventListener('click', (e) => {
     handleOrder();
     return;
   }
-});
+}); 
 
 function afficherPanier() {
   const panierContainer = document.getElementById("panierProduits");
